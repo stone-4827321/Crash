@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "5D98E1DE86B6582C0E430F219EA2312DF7C5049B" : {
+      "DVTSourceControlBranchIdentifierKey" : "develop",
+      "DVTSourceControlLocationRevisionKey" : "05f8a45d99e894062e861ed16797d264cca0e60e",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5D98E1DE86B6582C0E430F219EA2312DF7C5049B",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BAB35657-20D0-41DA-9628-FDCD34ACE011",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5D98E1DE86B6582C0E430F219EA2312DF7C5049B" : "K3InteSDK\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "K3InteTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "K3InteTest\/K3InteTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.3k.com\/client\/ios\/K3InteSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D98E1DE86B6582C0E430F219EA2312DF7C5049B"
+    }
+  ]
+}

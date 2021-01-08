@@ -1,0 +1,395 @@
+2020-12-21 06:34:26 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fbae9868170; archive(resolved)='<IDEArchive: 0x7fbae731d070>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fbae9868170; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fbae987b3c0; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae6c91390; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae65ce770; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae75a3650; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae63fc910; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae7e841a0; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae7ffd900; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae9dce1f0; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbafaef6e20; teamID='EQG82Q5DG8', teamName='Shanghai Binjie Network Technology Co., Ltd.', teamType='Company', username='stone4827321@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbae9db21e0; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='(null)'>
+	<IDEDistributionContext: 0x7fbae987ac00; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='(null)'>
+	<IDEDistributionContext: 0x7fbae6c14320; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='(null)'>
+	<IDEDistributionContext: 0x7fbae8b13370; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fbb032c2710>', team='(null)'>
+	<IDEDistributionContext: 0x7fbae9888e10; archive = '<IDEArchive: 0x7fbae731d070>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fbae9868170>
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionCopyItemStep
+2020-12-21 06:34:26 +0000  Running /usr/bin/ditto '-V' '/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app'
+2020-12-21 06:34:26 +0000  >>> Copying /Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app 
+2020-12-21 06:34:26 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-12-21 06:34:26 +0000  18333 bytes for ./_CodeSignature/CodeResources
+2020-12-21 06:34:26 +0000  copying file ./AppIcon20x20@2x.png ... 
+2020-12-21 06:34:26 +0000  4863 bytes for ./AppIcon20x20@2x.png
+copying file ./AppIcon57x57.png ... 
+2020-12-21 06:34:26 +0000  8714 bytes for ./AppIcon57x57.png
+copying file ./AppIcon20x20@3x.png ... 
+2020-12-21 06:34:26 +0000  9134 bytes for ./AppIcon20x20@3x.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon29x29.png ... 
+2020-12-21 06:34:26 +0000  2806 bytes for ./AppIcon29x29.png
+copying file ./AppIcon60x60@2x.png ... 
+2020-12-21 06:34:26 +0000  32125 bytes for ./AppIcon60x60@2x.png
+copying file ./AppIcon72x72@2x~ipad.png ... 
+2020-12-21 06:34:26 +0000  50371 bytes for ./AppIcon72x72@2x~ipad.png
+2020-12-21 06:34:26 +0000  copying file ./K3SDKInteTest ... 
+2020-12-21 06:34:26 +0000  288720 bytes for ./K3SDKInteTest
+2020-12-21 06:34:26 +0000  copying file ./AppIcon29x29@2x.png ... 
+2020-12-21 06:34:26 +0000  9034 bytes for ./AppIcon29x29@2x.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon40x40@3x.png ... 
+2020-12-21 06:34:26 +0000  32125 bytes for ./AppIcon40x40@3x.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon57x57@2x.png ... 
+2020-12-21 06:34:26 +0000  31898 bytes for ./AppIcon57x57@2x.png
+2020-12-21 06:34:26 +0000  copying file ./Configuration.storekit ... 
+2020-12-21 06:34:26 +0000  638 bytes for ./Configuration.storekit
+2020-12-21 06:34:26 +0000  copying file ./AppIcon29x29~ipad.png ... 
+2020-12-21 06:34:26 +0000  2806 bytes for ./AppIcon29x29~ipad.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon40x40@2x.png ... 
+2020-12-21 06:34:26 +0000  16508 bytes for ./AppIcon40x40@2x.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon29x29@3x.png ... 
+2020-12-21 06:34:26 +0000  19635 bytes for ./AppIcon29x29@3x.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon60x60@3x.png ... 
+2020-12-21 06:34:26 +0000  77067 bytes for ./AppIcon60x60@3x.png
+2020-12-21 06:34:26 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-12-21 06:34:26 +0000  916 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2020-12-21 06:34:26 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-12-21 06:34:26 +0000  1832 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2020-12-21 06:34:26 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-12-21 06:34:26 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-12-21 06:34:26 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-12-21 06:34:26 +0000  2416 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2020-12-21 06:34:26 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-12-21 06:34:26 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2020-12-21 06:34:26 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-12-21 06:34:26 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-12-21 06:34:26 +0000  copying file ./music.mp3 ... 
+2020-12-21 06:34:26 +0000  2836314 bytes for ./music.mp3
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_uncheck@3x.png ... 
+3826 bytes for ./ATAuthSDK.bundle/icon_uncheck@3x.png
+copying file ./ATAuthSDK.bundle/icon_nav_back_gray@2x.png ... 
+1053 bytes for ./ATAuthSDK.bundle/icon_nav_back_gray@2x.png
+copying file ./ATAuthSDK.bundle/icon_nav_back_gray@3x.png ... 
+2020-12-21 06:34:26 +0000  1611 bytes for ./ATAuthSDK.bundle/icon_nav_back_gray@3x.png
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_uncheck@2x.png ... 
+2020-12-21 06:34:26 +0000  2002 bytes for ./ATAuthSDK.bundle/icon_uncheck@2x.png
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_close_gray@2x.png ... 
+2020-12-21 06:34:26 +0000  240 bytes for ./ATAuthSDK.bundle/icon_close_gray@2x.png
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_close_gray@3x.png ... 
+2020-12-21 06:34:26 +0000  309 bytes for ./ATAuthSDK.bundle/icon_close_gray@3x.png
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_check@2x.png ... 
+2020-12-21 06:34:26 +0000  2732 bytes for ./ATAuthSDK.bundle/icon_check@2x.png
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_check@3x.png ... 
+2020-12-21 06:34:26 +0000  4769 bytes for ./ATAuthSDK.bundle/icon_check@3x.png
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_nav_back_light@2x.png ... 
+2020-12-21 06:34:26 +0000  573 bytes for ./ATAuthSDK.bundle/icon_nav_back_light@2x.png
+2020-12-21 06:34:26 +0000  copying file ./ATAuthSDK.bundle/icon_nav_back_light@3x.png ... 
+2020-12-21 06:34:26 +0000  950 bytes for ./ATAuthSDK.bundle/icon_nav_back_light@3x.png
+2020-12-21 06:34:26 +0000  copying file ./Assets.car ... 
+2020-12-21 06:34:26 +0000  6848360 bytes for ./Assets.car
+copying file ./AppIcon40x40@2x~ipad.png ... 
+2020-12-21 06:34:26 +0000  16508 bytes for ./AppIcon40x40@2x~ipad.png
+copying file ./AppIcon76x76@2x~ipad.png ... 
+2020-12-21 06:34:26 +0000  56464 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./AppIcon72x72~ipad.png ... 
+2020-12-21 06:34:26 +0000  13896 bytes for ./AppIcon72x72~ipad.png
+copying file ./AppIcon83.5x83.5@2x~ipad.png ... 
+2020-12-21 06:34:26 +0000  68658 bytes for ./AppIcon83.5x83.5@2x~ipad.png
+copying file ./AppIcon50x50~ipad.png ... 
+2020-12-21 06:34:26 +0000  7245 bytes for ./AppIcon50x50~ipad.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon29x29@2x~ipad.png ... 
+2020-12-21 06:34:26 +0000  9034 bytes for ./AppIcon29x29@2x~ipad.png
+copying file ./InteSDKInitPara.plist ... 
+2020-12-21 06:34:26 +0000  812 bytes for ./InteSDKInitPara.plist
+copying file ./AppIcon50x50@2x~ipad.png ... 
+2020-12-21 06:34:26 +0000  25187 bytes for ./AppIcon50x50@2x~ipad.png
+2020-12-21 06:34:26 +0000  copying file ./AppIcon40x40~ipad.png ... 
+2020-12-21 06:34:26 +0000  4863 bytes for ./AppIcon40x40~ipad.png
+2020-12-21 06:34:26 +0000  copying file ./Frameworks/K3InteSDK.framework/_CodeSignature/CodeResources ... 
+2020-12-21 06:34:26 +0000  2086 bytes for ./Frameworks/K3InteSDK.framework/_CodeSignature/CodeResources
+2020-12-21 06:34:26 +0000  copying file ./Frameworks/K3InteSDK.framework/K3InteSDK ... 
+2020-12-21 06:34:26 +0000  10520640 bytes for ./Frameworks/K3InteSDK.framework/K3InteSDK
+copying file ./Frameworks/K3InteSDK.framework/yinxiao.mp3 ... 
+2020-12-21 06:34:26 +0000  27002 bytes for ./Frameworks/K3InteSDK.framework/yinxiao.mp3
+copying file ./Frameworks/K3InteSDK.framework/Info.plist ... 
+694 bytes for ./Frameworks/K3InteSDK.framework/Info.plist
+copying file ./AppIcon20x20~ipad.png ... 
+1517 bytes for ./AppIcon20x20~ipad.png
+copying file ./LaunchImage.png ... 
+152008 bytes for ./LaunchImage.png
+copying file ./embedded.mobileprovision ... 
+2020-12-21 06:34:26 +0000  12596 bytes for ./embedded.mobileprovision
+copying file ./AppIcon20x20@2x~ipad.png ... 
+2020-12-21 06:34:26 +0000  4863 bytes for ./AppIcon20x20@2x~ipad.png
+copying file ./Info.plist ... 
+2020-12-21 06:34:26 +0000  3089 bytes for ./Info.plist
+2020-12-21 06:34:26 +0000  copying file ./1.jpg ... 
+2020-12-21 06:34:26 +0000  623073 bytes for ./1.jpg
+2020-12-21 06:34:26 +0000  copying file ./PkgInfo ... 
+2020-12-21 06:34:26 +0000  8 bytes for ./PkgInfo
+copying file ./AppIcon76x76~ipad.png ... 
+2020-12-21 06:34:26 +0000  15328 bytes for ./AppIcon76x76~ipad.png
+copying file ./movie.mp4 ... 
+2020-12-21 06:34:26 +0000  28389936 bytes for ./movie.mp4
+2020-12-21 06:34:26 +0000  /usr/bin/ditto exited with 0
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-12-21 06:34:26 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbae73d5650; bundleID='k3.K3InteSDK', path='<DVTFilePath:0x7fbae98790a0:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae65cec40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbae85c30b0; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbae70c2690>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='(null)', teamID='EQG82Q5DG8', identifier='k3.K3InteSDK', executablePath='<DVTFilePath:0x7fbae630b910:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK'>', hardenedRuntime='0'>'>
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionSymbolsStep
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionAppThinningStep
+2020-12-21 06:34:26 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionArchThinningStep
+2020-12-21 06:34:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK' '-verify_arch' 'arm64e'
+2020-12-21 06:34:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-21 06:34:26 +0000  Skipping architecture thinning for item "K3InteSDK" because arch "arm64e" wasn't found
+2020-12-21 06:34:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app/K3SDKInteTest' '-verify_arch' 'arm64e'
+2020-12-21 06:34:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-21 06:34:26 +0000  Skipping architecture thinning for item "K3SDKInteTest" because arch "arm64e" wasn't found
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionODRStep
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-12-21 06:34:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbae73d5650; bundleID='k3.K3InteSDK', path='<DVTFilePath:0x7fbae98790a0:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae65cec40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbae9d8a4e0; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbae70b6a80>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='(null)', teamID='EQG82Q5DG8', identifier='k3.K3InteSDK', executablePath='<DVTFilePath:0x7fbae630b910:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK'>', hardenedRuntime='0'>'>
+2020-12-21 06:34:26 +0000  Running /usr/bin/xattr '-crs' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app'
+2020-12-21 06:34:26 +0000  /usr/bin/xattr exited with 0
+2020-12-21 06:34:26 +0000  Processing step: IDEDistributionCodesignStep
+2020-12-21 06:34:26 +0000  Entitlements for <IDEDistributionItem: 0x7fbae73d5650; bundleID='k3.K3InteSDK', path='<DVTFilePath:0x7fbae98790a0:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae65cec40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbae9d8f4a0; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbae70fd950>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='(null)', teamID='EQG82Q5DG8', identifier='k3.K3InteSDK', executablePath='<DVTFilePath:0x7fbae630b910:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK'>', hardenedRuntime='0'>'>: {
+}
+2020-12-21 06:34:26 +0000  Entitlements for <IDEDistributionItem: 0x7fbae73d5650; bundleID='k3.K3InteSDK', path='<DVTFilePath:0x7fbae98790a0:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae65cec40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbae9d7df50; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbae7083af0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='(null)', teamID='EQG82Q5DG8', identifier='k3.K3InteSDK', executablePath='<DVTFilePath:0x7fbae630b910:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK'>', hardenedRuntime='0'>'> are: {
+}
+2020-12-21 06:34:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbae73d5650; bundleID='k3.K3InteSDK', path='<DVTFilePath:0x7fbae98790a0:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae65cec40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbae9db0310; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbae7086bd0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='(null)', teamID='EQG82Q5DG8', identifier='k3.K3InteSDK', executablePath='<DVTFilePath:0x7fbae630b910:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK'>', hardenedRuntime='0'>'> to: /var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/entitlements~~~XA3BI6
+2020-12-21 06:34:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '28738CB9B11A8E99BD6305B1A2CB188237D6EDAA' '--entitlements' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/entitlements~~~XA3BI6' '--preserve-metadata=identifier,flags,runtime' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework'
+2020-12-21 06:34:26 +0000  /var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework: replacing existing signature
+2020-12-21 06:34:26 +0000  /var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework: signed bundle with Mach-O universal (armv7 arm64) [k3.K3InteSDK]
+2020-12-21 06:34:26 +0000  /usr/bin/codesign exited with 0
+2020-12-21 06:34:26 +0000  Entitlements for <IDEDistributionItem: 0x7fbae6a68050; bundleID='com.sgqyyouming.kwan', path='<DVTFilePath:0x7fbae5d4d620:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae887c500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbaead1cd80; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbb005f16b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='{
+    "application-identifier" = "EQG82Q5DG8.com.sgqyyouming.kwan";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.associated-domains" =     (
+        "applinks:admin-wxshare.3k.com"
+    );
+    "com.apple.developer.team-identifier" = EQG82Q5DG8;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "EQG82Q5DG8.com.k3inte.groupshare"
+    );
+}', teamID='EQG82Q5DG8', identifier='com.sgqyyouming.kwan', executablePath='<DVTFilePath:0x7fbaead07670:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/K3SDKInteTest'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "EQG82Q5DG8.com.sgqyyouming.kwan";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.associated-domains" =     (
+        "applinks:admin-wxshare.3k.com"
+    );
+    "com.apple.developer.team-identifier" = EQG82Q5DG8;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "EQG82Q5DG8.com.k3inte.groupshare"
+    );
+}
+2020-12-21 06:34:26 +0000  Entitlements for <IDEDistributionItem: 0x7fbae6a68050; bundleID='com.sgqyyouming.kwan', path='<DVTFilePath:0x7fbae5d4d620:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae887c500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbae9dbc230; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbae70b0e70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='{
+    "application-identifier" = "EQG82Q5DG8.com.sgqyyouming.kwan";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.associated-domains" =     (
+        "applinks:admin-wxshare.3k.com"
+    );
+    "com.apple.developer.team-identifier" = EQG82Q5DG8;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "EQG82Q5DG8.com.k3inte.groupshare"
+    );
+}', teamID='EQG82Q5DG8', identifier='com.sgqyyouming.kwan', executablePath='<DVTFilePath:0x7fbaead07670:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/K3SDKInteTest'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "EQG82Q5DG8.com.sgqyyouming.kwan";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.associated-domains" =     (
+        "applinks:admin-wxshare.3k.com"
+    );
+    "com.apple.developer.team-identifier" = EQG82Q5DG8;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "EQG82Q5DG8.com.k3inte.groupshare"
+    );
+}
+2020-12-21 06:34:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbae6a68050; bundleID='com.sgqyyouming.kwan', path='<DVTFilePath:0x7fbae5d4d620:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbae887c500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbae9d97a00; name='Apple Development: Lei Wang (S2YZ7Z7CPD)', hash='28738CB9B11A8E99BD6305B1A2CB188237D6EDAA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbae70b4820>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-05-25 04:52:25 +0000''>', entitlements='{
+    "application-identifier" = "EQG82Q5DG8.com.sgqyyouming.kwan";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.associated-domains" =     (
+        "applinks:admin-wxshare.3k.com"
+    );
+    "com.apple.developer.team-identifier" = EQG82Q5DG8;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "EQG82Q5DG8.com.k3inte.groupshare"
+    );
+}', teamID='EQG82Q5DG8', identifier='com.sgqyyouming.kwan', executablePath='<DVTFilePath:0x7fbaead07670:'/Users/3kmac/Library/Developer/Xcode/Archives/2020-12-21/K3SDKInteTest 2020-12-21, 2.33 PM.xcarchive/Products/Applications/K3SDKInteTest.app/K3SDKInteTest'>', hardenedRuntime='0'>'> to: /var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/entitlements~~~kPiWPp
+2020-12-21 06:34:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '28738CB9B11A8E99BD6305B1A2CB188237D6EDAA' '--entitlements' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/entitlements~~~kPiWPp' '--preserve-metadata=identifier,flags,runtime' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app'
+2020-12-21 06:34:26 +0000  /var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app: replacing existing signature
+2020-12-21 06:34:27 +0000  /var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app: signed app bundle with Mach-O universal (armv7 arm64) [com.sgqyyouming.kwan]
+2020-12-21 06:34:27 +0000  /usr/bin/codesign exited with 0
+2020-12-21 06:34:27 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-12-21 06:34:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-21 06:34:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-21 06:34:27 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-12-21 06:34:27 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root' '/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Packages/K3SDKInteTest.ipa'
+2020-12-21 06:34:27 +0000  >>> Copying /var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root 
+2020-12-21 06:34:27 +0000  copying file ./Payload/K3SDKInteTest.app/_CodeSignature/CodeResources ... 
+2020-12-21 06:34:27 +0000  18333 bytes for ./Payload/K3SDKInteTest.app/_CodeSignature/CodeResources
+copying file ./Payload/K3SDKInteTest.app/AppIcon20x20@2x.png ... 
+2020-12-21 06:34:27 +0000  4863 bytes for ./Payload/K3SDKInteTest.app/AppIcon20x20@2x.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon57x57.png ... 
+2020-12-21 06:34:27 +0000  8714 bytes for ./Payload/K3SDKInteTest.app/AppIcon57x57.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon20x20@3x.png ... 
+2020-12-21 06:34:27 +0000  9134 bytes for ./Payload/K3SDKInteTest.app/AppIcon20x20@3x.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon29x29.png ... 
+2020-12-21 06:34:27 +0000  2806 bytes for ./Payload/K3SDKInteTest.app/AppIcon29x29.png
+2020-12-21 06:34:27 +0000  copying file ./Payload/K3SDKInteTest.app/AppIcon60x60@2x.png ... 
+2020-12-21 06:34:27 +0000  32125 bytes for ./Payload/K3SDKInteTest.app/AppIcon60x60@2x.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon72x72@2x~ipad.png ... 
+2020-12-21 06:34:27 +0000  50371 bytes for ./Payload/K3SDKInteTest.app/AppIcon72x72@2x~ipad.png
+copying file ./Payload/K3SDKInteTest.app/K3SDKInteTest ... 
+2020-12-21 06:34:27 +0000  288720 bytes for ./Payload/K3SDKInteTest.app/K3SDKInteTest
+copying file ./Payload/K3SDKInteTest.app/AppIcon29x29@2x.png ... 
+2020-12-21 06:34:27 +0000  9034 bytes for ./Payload/K3SDKInteTest.app/AppIcon29x29@2x.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon40x40@3x.png ... 
+2020-12-21 06:34:27 +0000  32125 bytes for ./Payload/K3SDKInteTest.app/AppIcon40x40@3x.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon57x57@2x.png ... 
+2020-12-21 06:34:27 +0000  31898 bytes for ./Payload/K3SDKInteTest.app/AppIcon57x57@2x.png
+copying file ./Payload/K3SDKInteTest.app/Configuration.storekit ... 
+2020-12-21 06:34:27 +0000  638 bytes for ./Payload/K3SDKInteTest.app/Configuration.storekit
+copying file ./Payload/K3SDKInteTest.app/AppIcon29x29~ipad.png ... 
+2020-12-21 06:34:27 +0000  2806 bytes for ./Payload/K3SDKInteTest.app/AppIcon29x29~ipad.png
+2020-12-21 06:34:27 +0000  copying file ./Payload/K3SDKInteTest.app/AppIcon40x40@2x.png ... 
+2020-12-21 06:34:27 +0000  16508 bytes for ./Payload/K3SDKInteTest.app/AppIcon40x40@2x.png
+2020-12-21 06:34:27 +0000  copying file ./Payload/K3SDKInteTest.app/AppIcon29x29@3x.png ... 
+2020-12-21 06:34:27 +0000  19635 bytes for ./Payload/K3SDKInteTest.app/AppIcon29x29@3x.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon60x60@3x.png ... 
+2020-12-21 06:34:27 +0000  77067 bytes for ./Payload/K3SDKInteTest.app/AppIcon60x60@3x.png
+2020-12-21 06:34:27 +0000  copying file ./Payload/K3SDKInteTest.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-12-21 06:34:27 +0000  916 bytes for ./Payload/K3SDKInteTest.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/K3SDKInteTest.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-12-21 06:34:27 +0000  1832 bytes for ./Payload/K3SDKInteTest.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/K3SDKInteTest.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2020-12-21 06:34:27 +0000  258 bytes for ./Payload/K3SDKInteTest.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/K3SDKInteTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-12-21 06:34:27 +0000  2416 bytes for ./Payload/K3SDKInteTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/K3SDKInteTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-12-21 06:34:27 +0000  896 bytes for ./Payload/K3SDKInteTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/K3SDKInteTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-12-21 06:34:27 +0000  258 bytes for ./Payload/K3SDKInteTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/K3SDKInteTest.app/music.mp3 ... 
+2020-12-21 06:34:27 +0000  2836314 bytes for ./Payload/K3SDKInteTest.app/music.mp3
+2020-12-21 06:34:27 +0000  copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_uncheck@3x.png ... 
+3826 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_uncheck@3x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_gray@2x.png ... 
+1053 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_gray@2x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_gray@3x.png ... 
+1611 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_gray@3x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_uncheck@2x.png ... 
+2002 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_uncheck@2x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_close_gray@2x.png ... 
+240 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_close_gray@2x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_close_gray@3x.png ... 
+309 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_close_gray@3x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_check@2x.png ... 
+2732 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_check@2x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_check@3x.png ... 
+2020-12-21 06:34:27 +0000  4769 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_check@3x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_light@2x.png ... 
+2020-12-21 06:34:27 +0000  573 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_light@2x.png
+copying file ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_light@3x.png ... 
+2020-12-21 06:34:27 +0000  950 bytes for ./Payload/K3SDKInteTest.app/ATAuthSDK.bundle/icon_nav_back_light@3x.png
+copying file ./Payload/K3SDKInteTest.app/Assets.car ... 
+2020-12-21 06:34:27 +0000  6848360 bytes for ./Payload/K3SDKInteTest.app/Assets.car
+copying file ./Payload/K3SDKInteTest.app/AppIcon40x40@2x~ipad.png ... 
+2020-12-21 06:34:27 +0000  16508 bytes for ./Payload/K3SDKInteTest.app/AppIcon40x40@2x~ipad.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon76x76@2x~ipad.png ... 
+2020-12-21 06:34:27 +0000  56464 bytes for ./Payload/K3SDKInteTest.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon72x72~ipad.png ... 
+2020-12-21 06:34:27 +0000  13896 bytes for ./Payload/K3SDKInteTest.app/AppIcon72x72~ipad.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon83.5x83.5@2x~ipad.png ... 
+2020-12-21 06:34:27 +0000  68658 bytes for ./Payload/K3SDKInteTest.app/AppIcon83.5x83.5@2x~ipad.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon50x50~ipad.png ... 
+2020-12-21 06:34:27 +0000  7245 bytes for ./Payload/K3SDKInteTest.app/AppIcon50x50~ipad.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon29x29@2x~ipad.png ... 
+2020-12-21 06:34:27 +0000  9034 bytes for ./Payload/K3SDKInteTest.app/AppIcon29x29@2x~ipad.png
+copying file ./Payload/K3SDKInteTest.app/InteSDKInitPara.plist ... 
+2020-12-21 06:34:27 +0000  812 bytes for ./Payload/K3SDKInteTest.app/InteSDKInitPara.plist
+copying file ./Payload/K3SDKInteTest.app/AppIcon50x50@2x~ipad.png ... 
+2020-12-21 06:34:27 +0000  25187 bytes for ./Payload/K3SDKInteTest.app/AppIcon50x50@2x~ipad.png
+copying file ./Payload/K3SDKInteTest.app/AppIcon40x40~ipad.png ... 
+2020-12-21 06:34:27 +0000  4863 bytes for ./Payload/K3SDKInteTest.app/AppIcon40x40~ipad.png
+2020-12-21 06:34:27 +0000  copying file ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/_CodeSignature/CodeResources ... 
+2020-12-21 06:34:27 +0000  2086 bytes for ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/_CodeSignature/CodeResources
+copying file ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK ... 
+2020-12-21 06:34:28 +0000  10520944 bytes for ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/K3InteSDK
+copying file ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/yinxiao.mp3 ... 
+2020-12-21 06:34:28 +0000  27002 bytes for ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/yinxiao.mp3
+copying file ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/Info.plist ... 
+694 bytes for ./Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework/Info.plist
+copying file ./Payload/K3SDKInteTest.app/AppIcon20x20~ipad.png ... 
+1517 bytes for ./Payload/K3SDKInteTest.app/AppIcon20x20~ipad.png
+copying file ./Payload/K3SDKInteTest.app/LaunchImage.png ... 
+2020-12-21 06:34:28 +0000  152008 bytes for ./Payload/K3SDKInteTest.app/LaunchImage.png
+copying file ./Payload/K3SDKInteTest.app/embedded.mobileprovision ... 
+2020-12-21 06:34:28 +0000  12596 bytes for ./Payload/K3SDKInteTest.app/embedded.mobileprovision
+copying file ./Payload/K3SDKInteTest.app/AppIcon20x20@2x~ipad.png ... 
+2020-12-21 06:34:28 +0000  4863 bytes for ./Payload/K3SDKInteTest.app/AppIcon20x20@2x~ipad.png
+copying file ./Payload/K3SDKInteTest.app/Info.plist ... 
+2020-12-21 06:34:28 +0000  3089 bytes for ./Payload/K3SDKInteTest.app/Info.plist
+copying file ./Payload/K3SDKInteTest.app/1.jpg ... 
+2020-12-21 06:34:28 +0000  623073 bytes for ./Payload/K3SDKInteTest.app/1.jpg
+copying file ./Payload/K3SDKInteTest.app/PkgInfo ... 
+2020-12-21 06:34:28 +0000  8 bytes for ./Payload/K3SDKInteTest.app/PkgInfo
+copying file ./Payload/K3SDKInteTest.app/AppIcon76x76~ipad.png ... 
+2020-12-21 06:34:28 +0000  15328 bytes for ./Payload/K3SDKInteTest.app/AppIcon76x76~ipad.png
+copying file ./Payload/K3SDKInteTest.app/movie.mp4 ... 
+2020-12-21 06:34:28 +0000  28389936 bytes for ./Payload/K3SDKInteTest.app/movie.mp4
+2020-12-21 06:34:28 +0000  /usr/bin/ditto exited with 0
+2020-12-21 06:34:28 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-12-21 06:34:28 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-12-21 06:34:28 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-12-21 06:34:28 +0000  IDEDistributionItem init <DVTFilePath:0x7fbae85da9c0:'/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app/Frameworks/K3InteSDK.framework'>
+2020-12-21 06:34:28 +0000  IDEDistributionItem init <DVTFilePath:0x7fbae7659060:'/var/folders/hz/dg3ds_t12n936ylr_k8vpvw80000gn/T/XcodeDistPipeline.~~~tgiXa2/Root/Payload/K3SDKInteTest.app'>
+2020-12-21 06:34:28 +0000  Processing step: IDEDistributionCreateManifestStep
