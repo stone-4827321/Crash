@@ -75,7 +75,9 @@
     ```
 
     - arch 为 arm64、armv7s、armv7、arm64、x86_64 
+    
     - path_to_DWARF 为 dSYM 文件中的 DWARF 文件路径，一般为 *xxx.app.dSYM/Contents/Resources/DWARF/xxx*
+    
     - 主程序 slide 值一般为 0x0000000100000000；动态库 slide 值一般为 0x0000000000000000
 
 ## dSYM
