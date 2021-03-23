@@ -25,9 +25,13 @@
   | EXC_RESOURCE        |           |        | 资源受限     | 1.线程调用太频繁，子线程每秒被唤醒次数超过150                |
 
   - SIGKILL 表示系统中止进程。崩溃报告会包含代表中止原因的编码：
+  
     - 0x8badf00d：ate bad food，系统监视程序由中止无响应应用。
+    
     - 0xc00010ff：cool off，系统由于过热保护中止应用，通常与特定的手机和环境有关。
+    
     - 0xdead10cc：dead lock，系统中止在挂起期间一直保持文件锁或 SQLite 数据库锁的应用。
+    
     - 0xbaadca11：bad all，系统由于应用在响应PushKit通知时无法报告 CallKit 呼叫而中止它。
 
 - 无论是硬件产生的信号，还是软件产生的信号，都会走到 `act_set_astbsd()` 进而唤醒收到信号的进程的某一个线程。这个机制就给自身进程内捕获 Crash 提供了可能性：**通过拦截 “UNIX信号” 或 “Mach异常” 来捕获崩溃**。
@@ -81,8 +85,11 @@
   ![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm3fnhqkuuj3164044gm9.jpg)
 
 - 文件位置：
+
   - Product -> Run：在  *Xcode preferences -> Locations -> Derived Data*
+  
   - Product -> Archive：在 *Window -> Organizer*
+  
   - 通过运行命令：`mdfind <uuid_of_app>` 寻找对应的 dSYM 文件
 
 ## UUID
@@ -304,8 +311,11 @@
 - 通过 Mach API 设置 Threads，Tasks 的异常端口 Ports，来捕获 Mach 异常 Message。
 
   - Tasks：拥有一组系统资源的对象，允许 Threads 在其中执行。
+  
   - Threads：执行的基本单位，拥有 Task 的上下文，并共享其资源。
+  
   - Ports：Task之间通讯的一组受保护的消息队列；Task 可对任何 Port 发送/接收数据。
+  
   - Message：有类型的数据对象集合，只可以发送到 Port。
 
   ```c
@@ -400,6 +410,7 @@
 - 硬件错误被 Mach 层捕获，然后转换为对应的 “UNIX信号”。为了维护一个统一的机制，操作系统和用户产生的信号首先被转换为 Mach 异常，然后再转换为 Signal 信号。
 
   - 不是所有的 Mach异常类型都映射到了 Signal 信号，如 EXC_GUARD；
+  
   - 用户态的软件异常是直接走信号流程，不产生 Mach 异常。
 
 - 通过注册信号处理函数 `signal()` 或 `sigaction()` 来捕获 Signal 信号。
@@ -431,6 +442,7 @@
 ## OC 异常
 
 - 引发崩溃的代码本质上就两类：
+
   - 信号异常，C++ 语言层面的错误，比如野指针，除零，内存访问异常等。
   
   - 未捕获异常（`Uncaught Exception`），iOS 下面最常见的就是 `NSException`（通过 `@throw` 抛出），比如数组访问元素越界。
